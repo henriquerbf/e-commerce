@@ -1,4 +1,4 @@
-microservices-based e-commerce platform that includes
+Microservices-based e-commerce platform that includes
 -user management
 -product catalog
 -order processing. 
